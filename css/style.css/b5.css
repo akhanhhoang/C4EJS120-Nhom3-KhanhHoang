@@ -1,0 +1,31 @@
+
+body {
+    background-color: #FFF;
+    margin: 0 auto;
+
+   
+}
+header {
+    background-color: #466995;
+    border-bottom: 1px solid #466995;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.ul {
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+
+}
+.ul {
+margin: 30px auto;
+padding: 0 20px;
+text-align: center;
+display: flex;
+justify-content: space-between;
+position: relative;
+}

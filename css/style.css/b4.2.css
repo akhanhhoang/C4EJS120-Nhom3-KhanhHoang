@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1 {
+    color: white;
+    background-color: rgb(43, 183, 226);
+    padding: 30px;
+    padding-left: 150px;
+    padding-top: 5px;
+}
+h2 {
+    margin: 10px 10%;
+}
+h3 {
+    padding-left: 10px;
+    padding: 20px;
+    color: rgb(47, 212, 185);
+}
+.card-row {
+    margin-left: 30px;
+}
+
+.card {
+    width: 20%;
+    margin-left: 10px;
+    padding: 10px;
+    padding-left: 80px;
+    border: 20px rgb(127, 46, 202);
+    border-radius: 20%;
+}
+.card p {
+   font-size: 15px;
+   margin-bottom: 10px; 
+   opacity: 0.7;
+}
+.card img {
+    width: 60vw;
+}
+.button{
+    display:inline-block;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(25, 57, 160);
+    border: 2px blueviolet solid;
+    border-radius: 5px;  
+    margin: 5px 0px;
+}
+em{
+    background-color: rgb(235, 161, 216);
+}
